@@ -1,0 +1,19 @@
+.selectors{
+    width:100%;
+    display:flex;
+    margin:10px;
+   justify-content: space-around;
+}
+.list{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    max-height: 90vh;
+}
+.places{
+    overflow-y: scroll;
+}
+.header{
+    text-align: center;
+    margin: 10px;
+}

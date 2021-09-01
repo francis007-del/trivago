@@ -1,0 +1,41 @@
+  
+  .page-title {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .card-wrapper {
+    position: relative;
+    width: 85%;
+    height: fit-content;
+    margin: 20px;
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    padding:5px;
+  }
+  .card-wrapper:hover{
+    transition:0.2s;
+  transform: scale(1.05);
+  cursor: pointer;
+  }
+  .chip {
+    margin: '5px 5px 5px 0',
+  }
+  .subtitle {
+    display: flex;
+     align-items: center;
+      justify-content: space-between;
+       margin-top: 10px,
+  }
+  .spacing {
+    display: flex;
+     align-items: center;
+      justify-content: space-between;
+  }
+  
+  
+  
+
+  
+  
+  
+  
